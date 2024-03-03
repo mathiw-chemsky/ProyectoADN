@@ -6,8 +6,10 @@ PROBLEMA A RESOLVER: Simular algunos procesos en los que están involucrados el 
 1.- Análisis de requisitos
   1.1.- R. de los usuarios
      a) Completar la cadena del ADN, es decir que genere el par correspondiente.
+     
      3'  -P-------------------------------------- 5'
      5' (--------------------------------------P-) 3'
+       
         - Se va a ingresar una cadena de n caracteres.
         - Se tiene que imprimir el par correspondiente.
              
@@ -30,6 +32,7 @@ PROBLEMA A RESOLVER: Simular algunos procesos en los que están involucrados el 
     
   1.2.- R. del sistema
      a) Completar la cadena del ADN, es decir que genere el par correspondiente.
+     
      3'  -P-------------------------------------- 5'
      5' (--------------------------------------P-) 3'
         - Se va a ingresar una cadena de n caracteres. (INPUT)
